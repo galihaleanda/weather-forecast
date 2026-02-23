@@ -8,7 +8,7 @@ A clean, modern, and fully responsive weather dashboard frontend built with Reac
 
 The backend for this project is maintained separately:
 
-- #### Repository: https://github.com/galihaleanda/weather-forecast
+- #### Repository: https://github.com/galihaleanda/go-weather-forecast
 
 <br>
 
